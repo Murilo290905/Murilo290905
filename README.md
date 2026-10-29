@@ -53,3 +53,20 @@ Meu nome é Murilo tenho 21 anos, sou da capital de São Paulo e atualmente esto
 
 ---
 
+## 🐍 Minhas Contribuições
+
+<div align="center">
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Murilo290905/Murilo290905/output/github-contribution-grid-snake-dark.svg"
+  />
+  <img
+    alt="Animação Snake das contribuições do GitHub"
+    src="https://raw.githubusercontent.com/Murilo290905/Murilo290905/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+</div>
+
